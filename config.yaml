@@ -1,0 +1,9 @@
+listener:
+  addr: :1024
+
+logger:
+  level: info
+
+db:
+  url: "postgresql://postgres:vivarobots11061985_@127.0.0.1:5432/mplspsql"
+  log: false
